@@ -13,7 +13,7 @@ Conduct a detailed analysis of Blinkit's sales performance, customer satisfactio
 4. Average Rating: The Average customer rating for items sold.
 
 
-Charts Requirements
+# Charts Requirements
 
 1. Total Sales by Fat Content:
 Objective: Analyze the impact of fat contents on Sales.
