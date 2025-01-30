@@ -1,5 +1,5 @@
 # Blinkit Analysis
-In this project I have used Excel and Power BI to answer the key insights for client (Not a live project)
+In this project I have used Excel to visualize and answer the key insights for client (Not a live project)
 
 # Business Requirements
 
