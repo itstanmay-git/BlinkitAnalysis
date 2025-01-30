@@ -17,16 +17,13 @@ Conduct a detailed analysis of Blinkit's sales performance, customer satisfactio
 
 1. Total Sales by Fat Content:
 Objective: Analyze the impact of fat contents on Sales.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
 
 2. Total Sales by Item Type:
 Objective: Identify the performance of different items types in terms of total sales.
-Additional KPI Matric: Access how other KPIs(Average Sale, Number of items, Average Rating) vary with fat content.
 
 3. Fat Content by Total Sales:
 Objective: Compare total sales across different outlets segmented by fat content.
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of items ad Average rating) vary with fat content.
 
 
 4. Total Sales by Outlet Establishment:
