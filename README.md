@@ -1,11 +1,11 @@
 # Blinkit Analysis
 In this project I have used Excel to visualize and answer the key insights for client (Not a live project)
 
-# Business Requirements
+## Business Requirements
 
 Conduct a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to find important insights and optimization opportunities using multiple KPIs and visualization in Power BI.
 
-# KPI Requirements
+## KPI Requirements
 
 1. Total Sales: The Overall revenue generated from all items sold.
 2. Average Sales: The Average revenue per sale 
@@ -13,7 +13,7 @@ Conduct a detailed analysis of Blinkit's sales performance, customer satisfactio
 4. Average Rating: The Average customer rating for items sold.
 
 
-# Charts Requirements
+## Charts Requirements
 
 1. Total Sales by Fat Content:
 Objective: Analyze the impact of fat contents on Sales.
@@ -41,3 +41,6 @@ Objective: Assess the geographical distribution of sales across different locati
 7. All Metrics by Outlet Type:
 Objective: Provide a Comprehensive view of all key metrics broken down by Different Outlet types
 
+---
+
+*Built by Pushpak Umale*
